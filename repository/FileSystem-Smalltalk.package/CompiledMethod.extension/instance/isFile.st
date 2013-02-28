@@ -1,0 +1,3 @@
+*FileSystem-Smalltalk
+isFile
+	^ true

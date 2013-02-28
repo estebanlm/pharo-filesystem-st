@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Smalltalk",
+	"classinstvars" : [
+		"currentFileSystem" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SmalltalkStore",
+	"pools" : [
+		 ],
+	"super" : "MemoryStore",
+	"type" : "normal" }

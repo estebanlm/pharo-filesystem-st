@@ -1,0 +1,3 @@
+*FileSystem-Smalltalk
+isDirectory 
+	^ true

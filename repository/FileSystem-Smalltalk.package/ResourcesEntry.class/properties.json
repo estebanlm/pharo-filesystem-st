@@ -1,0 +1,15 @@
+{
+	"category" : "FileSystem-Smalltalk",
+	"classinstvars" : [
+		"cache" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fs",
+		"fileSystem" ],
+	"name" : "ResourcesEntry",
+	"pools" : [
+		 ],
+	"super" : "AbstractSmalltalkFileSystemEntry",
+	"type" : "normal" }
