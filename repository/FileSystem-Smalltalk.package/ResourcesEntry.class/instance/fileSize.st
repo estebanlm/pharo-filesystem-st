@@ -1,4 +1,4 @@
 accessing
 fileSize
 	fileSystem ifNil: [ ^ 0 ].
-	^ fileSystem root entry fileSize.
+	^ fileSystem root entry size.
