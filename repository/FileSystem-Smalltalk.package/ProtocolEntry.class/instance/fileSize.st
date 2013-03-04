@@ -1,3 +1,3 @@
 accessing
 fileSize
-	^ self methods
+	^ self methods size
