@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Relative",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"outputDirectory" ],
+	"name" : "ExportCommandLineHandler",
+	"pools" : [
+		 ],
+	"super" : "CommandLineHandler",
+	"type" : "normal" }
