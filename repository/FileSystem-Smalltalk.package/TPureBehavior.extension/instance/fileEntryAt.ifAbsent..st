@@ -4,10 +4,10 @@ fileEntryAt: pathSegment ifAbsent: absentBlock
 		ifTrue: [ ^ self theMetaClass organization ].
 	pathSegment = #instance
 		ifTrue: [ ^ self organization ].
-	pathSegment = ClassCommentEntry basename
+	pathSegment = ClassCommentEntry basicBasename
 		ifTrue: [ ^ ClassCommentEntry class: self  ].
-	pathSegment = ClassDefinitionEntry basename
+	pathSegment = ClassDefinitionEntry basicBasename
 		ifTrue: [ ^ ClassDefinitionEntry class: self  ].
-	pathSegment = ResourcesEntry basename
+	pathSegment = ResourcesEntry basicBasename
 		ifTrue: [ ^ ResourcesEntry on: self ].
 	^ absentBlock value.
