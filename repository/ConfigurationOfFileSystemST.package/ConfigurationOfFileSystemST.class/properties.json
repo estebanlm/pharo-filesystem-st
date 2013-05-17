@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfFileSystemST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfFileSystemST",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
