@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Smalltalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"clazz" ],
+	"name" : "ClassDefinitionEntry",
+	"pools" : [
+		 ],
+	"super" : "AbstractSmalltalkFileSystemEntry",
+	"type" : "normal" }

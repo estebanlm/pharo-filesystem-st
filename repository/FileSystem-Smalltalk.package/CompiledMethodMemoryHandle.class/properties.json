@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Smalltalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source" ],
+	"name" : "CompiledMethodMemoryHandle",
+	"pools" : [
+		 ],
+	"super" : "MemoryHandle",
+	"type" : "normal" }

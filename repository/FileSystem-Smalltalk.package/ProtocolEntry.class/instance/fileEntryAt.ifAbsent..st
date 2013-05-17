@@ -1,5 +1,5 @@
 accessing
 fileEntryAt: pathSegment ifAbsent: absentBlock
 	^ clazz methodDict
-		at: (pathSegment copyUpToLast: $.) asSymbol
+		at: (MethodFileNameEncoder decode: pathSegment) asSymbol
 		ifAbsent: absentBlock

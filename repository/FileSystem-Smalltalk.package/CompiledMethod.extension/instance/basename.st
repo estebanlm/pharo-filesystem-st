@@ -1,3 +1,3 @@
 *FileSystem-Smalltalk
 basename 
-	^ self selector asString, '.st'
+	^ MethodFileNameEncoder encode: self selector

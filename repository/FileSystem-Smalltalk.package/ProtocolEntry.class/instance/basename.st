@@ -1,3 +1,3 @@
 accessing
 basename
-	^ protocol
+	^ FSSTFileNameEncoder encode: protocol

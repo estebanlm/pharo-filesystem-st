@@ -1,4 +1,7 @@
 *FileSystem-Smalltalk
 fileEntriesDo: aBlock
-	self categories do: [ :name|
-		aBlock value: (ProtocolEntry class: self subject protocol: name)]
+	self flag: 'Hardcoded extension packages :/'.
+	self categories 
+		reject: [ :name | name == NullCategory or: [ name first = $* ]]
+		thenDo: [ :name |
+			aBlock value: (ProtocolEntry class: self subject protocol: name)]

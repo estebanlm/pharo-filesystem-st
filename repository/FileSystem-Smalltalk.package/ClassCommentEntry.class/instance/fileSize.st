@@ -1,3 +1,3 @@
 accessing
 fileSize
-	^ clazz comment byteSize
+	^ self comment byteSize

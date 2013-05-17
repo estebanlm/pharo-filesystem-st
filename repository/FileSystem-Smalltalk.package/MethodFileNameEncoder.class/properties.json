@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Smalltalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MethodFileNameEncoder",
+	"pools" : [
+		 ],
+	"super" : "FSSTFileNameEncoder",
+	"type" : "normal" }

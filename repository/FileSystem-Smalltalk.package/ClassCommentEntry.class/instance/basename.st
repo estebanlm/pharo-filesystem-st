@@ -1,3 +1,3 @@
 accessing
 basename
-	^ 'README.md'
+	^ self class basename

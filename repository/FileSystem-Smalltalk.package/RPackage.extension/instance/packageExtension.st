@@ -1,3 +1,3 @@
 *FileSystem-Smalltalk
 packageExtension
-	^ PackageExtension package: self
+	^ PackageExtensionEntry package: self

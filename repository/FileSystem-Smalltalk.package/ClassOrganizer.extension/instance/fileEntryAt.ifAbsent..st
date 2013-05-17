@@ -1,8 +1,10 @@
 *FileSystem-Smalltalk
 fileEntryAt: pathSegment ifAbsent: absentBlock
-	^ (self listAtCategoryNamed: pathSegment)
+	| decodedName |
+	decodedName := FSSTFileNameEncoder decode: pathSegment.
+	^ (self listAtCategoryNamed: decodedName)
 		ifNil: absentBlock
 		ifNotNil: [
 			ProtocolEntry 
 				class: self subject
-				protocol: pathSegment ]
+				protocol: decodedName ]

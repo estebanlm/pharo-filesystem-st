@@ -1,3 +1,3 @@
 accessing
 fileAt: anIndex
-	^ clazz comment byteAt: anIndex
+	^ self comment byteAt: anIndex

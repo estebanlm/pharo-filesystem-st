@@ -1,0 +1,3 @@
+accessing
+definition
+	^ clazz definition
