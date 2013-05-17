@@ -1,3 +1,3 @@
 accessing
-basename
+basicBasename
 	^ 'definition.st'

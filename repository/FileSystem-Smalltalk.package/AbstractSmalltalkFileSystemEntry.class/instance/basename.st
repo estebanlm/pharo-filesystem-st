@@ -1,3 +1,3 @@
 accessing
 basename
-	^ self subclassResponsibility
+	^ self class basicBasename

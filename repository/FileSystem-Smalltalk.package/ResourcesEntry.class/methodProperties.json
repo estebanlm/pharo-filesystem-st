@@ -1,12 +1,11 @@
 {
 	"class" : {
-		"basename" : "CamilloBruni 5/7/2013 10:22",
+		"basicBasename" : "CamilloBruni 5/18/2013 00:40",
 		"cache" : "CamilloBruni 7/2/2012 22:22",
 		"on:" : "CamilloBruni 7/2/2012 22:21",
 		"reset" : "CamilloBruni 7/2/2012 22:21" },
 	"instance" : {
 		"at:ifPresent:" : "CamilloBruni 7/3/2012 23:53",
-		"basename" : "CamilloBruni 5/7/2013 10:22",
 		"ensureDirectory:" : "CamilloBruni 7/3/2012 23:53",
 		"ensureFile:" : "CamilloBruni 3/4/2013 19:59",
 		"fileEntriesDo:" : "CamilloBruni 3/4/2013 19:54",
