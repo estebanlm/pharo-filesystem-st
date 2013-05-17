@@ -1,0 +1,17 @@
+{
+	"category" : "FileSystem-Tests-Relative",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalReference",
+		"fileSystem",
+		"reference",
+		"store" ],
+	"name" : "RelativeFileSystemStoreTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
