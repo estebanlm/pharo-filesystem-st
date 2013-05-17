@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"on:" : "CamilloBruni 4/7/2013 19:34" },
+	"instance" : {
+		"basenameFromEntry:" : "CamilloBruni 4/7/2013 20:01",
+		"basicCreationTime:" : "CamilloBruni 4/7/2013 20:04",
+		"basicIsDirectory:" : "CamilloBruni 4/7/2013 20:04",
+		"basicIsFile:" : "CamilloBruni 4/7/2013 20:04",
+		"basicIsSymlink:" : "CamilloBruni 4/7/2013 20:04",
+		"basicIsWritable:" : "CamilloBruni 4/7/2013 20:04",
+		"basicModificationTime:" : "CamilloBruni 4/7/2013 20:04",
+		"basicOpen:writable:" : "CamilloBruni 4/24/2013 19:04",
+		"basicPosixPermissions:" : "CamilloBruni 4/7/2013 20:04",
+		"basicSize:" : "CamilloBruni 4/7/2013 20:05",
+		"createDirectory:" : "CamilloBruni 4/7/2013 20:05",
+		"delete:" : "CamilloBruni 4/7/2013 20:05",
+		"delimiter" : "CamilloBruni 4/7/2013 19:32",
+		"directoryAt:ifAbsent:directoryNodesDo:" : "CamilloBruni 4/7/2013 20:05",
+		"directoryAt:ifAbsent:fileNodesDo:" : "CamilloBruni 4/7/2013 20:06",
+		"directoryAt:ifAbsent:nodesDo:" : "CamilloBruni 4/7/2013 19:36",
+		"fileSystem" : "CamilloBruni 4/7/2013 19:33",
+		"forReferencePrintOn:" : "CamilloBruni 4/7/2013 19:31",
+		"handleClass" : "CamilloBruni 4/24/2013 19:01",
+		"nodeAt:ifPresent:ifAbsent:" : "CamilloBruni 4/24/2013 19:05",
+		"reference" : "CamilloBruni 4/7/2013 19:28",
+		"reference:" : "CamilloBruni 4/7/2013 19:28",
+		"resolvePath:" : "CamilloBruni 4/7/2013 20:03",
+		"store" : "CamilloBruni 4/7/2013 19:33" } }

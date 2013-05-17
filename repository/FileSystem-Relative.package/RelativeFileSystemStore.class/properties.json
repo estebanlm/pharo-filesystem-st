@@ -1,0 +1,14 @@
+{
+	"category" : "FileSystem-Relative",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"reference" ],
+	"name" : "RelativeFileSystemStore",
+	"pools" : [
+		 ],
+	"super" : "FileSystemStore",
+	"type" : "normal" }
