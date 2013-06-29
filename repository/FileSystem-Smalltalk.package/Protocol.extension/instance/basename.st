@@ -1,0 +1,3 @@
+*FileSystem-Smalltalk
+basename
+	^ name
