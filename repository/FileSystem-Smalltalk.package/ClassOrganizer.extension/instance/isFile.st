@@ -1,3 +1,0 @@
-*FileSystem-Smalltalk
-isFile
-	^ false

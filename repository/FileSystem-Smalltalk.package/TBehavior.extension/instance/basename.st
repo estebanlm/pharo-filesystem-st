@@ -1,3 +1,3 @@
 *FileSystem-Smalltalk
 basename
-	^ self name, '.cls'
+	^ self name, '.class'

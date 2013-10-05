@@ -1,6 +1,6 @@
 *FileSystem-Smalltalk
 fileEntryAt: pathSegment ifAbsent: absentBlock
-	self definedClasses do: [ :cls|
+	self definedClasses do: [ :cls |
 		cls basename = pathSegment 
 			ifTrue: [ ^ cls ]].
 	pathSegment = #extension
